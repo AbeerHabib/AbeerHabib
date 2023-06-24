@@ -1,6 +1,3 @@
-<h1 align="center">Abeer Alnakhli</h1>
-<h3 align="center">UI Designer | Front-end Developer | Information System Analyst</h3>
-
 <p align="left">
 </p>
 

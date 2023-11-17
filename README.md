@@ -2,7 +2,7 @@
 
 - :computer: `<FullStackDeveloper />`
 - :star2: UX/UI Designer
-- :mortar_board: Information Systems Graduate
+- :mortar_board: Bachelor of Information Systems
 - :e-mail: Contact me via [email](mailto:abeernakhli@hotmail.com)
 
 ### :wrench: Technologies and Tools

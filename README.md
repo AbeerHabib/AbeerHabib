@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
 **Design:**
@@ -42,10 +42,10 @@
     <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p> 
 
-**Version Control and Collaboration:**
+**Other**:
 <p>
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-</p> 
+  <img src="https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black"/>
+</p>
 
 ### :chart_with_upwards_trend: The Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abeerhabib&show_icons=true&locale=en&layout=compact" alt="abeerhabib" /></p>

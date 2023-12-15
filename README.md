@@ -1,11 +1,11 @@
-### :speech_balloon: About Me
+### :speech_balloon: About
 
 - :computer: `<FullStackDeveloper />`
 - :star2: UX/UI Designer
 - :mortar_board: Bachelor of Information Systems
 - :e-mail: Contact me via [email](mailto:abeernakhli@hotmail.com)
 
-### :wrench: My Tech Stack
+### :wrench: Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge" />
